@@ -1,0 +1,7 @@
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\bin\Debug\pwnedChecker.exe.config
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\bin\Debug\pwnedChecker.exe
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\bin\Debug\pwnedChecker.pdb
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\obj\Debug\pwnedChecker.csproj.CoreCompileInputs.cache
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\obj\Debug\pwnedChecker.exe
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\obj\Debug\pwnedChecker.pdb
+C:\Users\f.stellmann\Source\repos\pwnedChecker\pwnedChecker\obj\Debug\pwnedChecker.csprojAssemblyReference.cache
